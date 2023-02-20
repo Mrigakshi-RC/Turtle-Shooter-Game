@@ -11,7 +11,7 @@ deter_score=10
 
 screen = Screen()
 screen.setup(width=600, height=650)
-screen.tracer(0) #with this, we dont have to the initial setup of screen and the placing of various elements
+screen.tracer(0) #with this, we dont have to the initial setup of screen and the placing of various elements.
 
 player=Player()
 enemies=TurtleManager()
